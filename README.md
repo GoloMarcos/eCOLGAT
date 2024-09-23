@@ -12,3 +12,6 @@ We explore the problem of causal discovery between text pairs. We propose a new 
 
 # Results
 ![Results](/images/results.png)
+
+# Interpretable Results
+![Results](/images/results_inter.png)
